@@ -42,14 +42,14 @@ The application provides a simple interface where users can input their data, so
 #### Standalone Executable:<br>
 1. Navigate to the `Release` folder in the GitHub repository.<br>
 2. Download the `SortWizardPublish` folder.<br>
-3. Locate the `SortWizard app.exe` file inside the folder.<br>
+3. Locate the zipped`SortWizard app(exe).zip` file inside the folder, unzip the file to get to the `SortWizard app.exe` .<br>
 4. Double-click the `.exe` file to launch the application.<br>
 #### Running Locally from Source Code:<br>
 1. Clone the repository:git clone https://github.com/Celiakamana/SortWizard-WinForm-.git<br>
 2. Open the `Sort Wizard App.sln` file in Visual Studio.<br>
 3. Build and run the application from Visual Studio.<br>
 ## Demo<br>
-A demonstration video is available in the repository:<br>
+A demonstration video is available in the repository:https://github.com/Celiakamana/SortWizard-WinForm-/blob/main/Release/Sort%20Wizard%20app%20Demo.mp4<br>
 ## Contributing<br>
 Contributions are welcome! Feel free to fork the repository and submit a pull request with improvements or fixes.<br>
 ## License<br>
