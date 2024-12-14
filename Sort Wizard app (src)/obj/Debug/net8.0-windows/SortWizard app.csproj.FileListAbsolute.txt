@@ -31,3 +31,4 @@ C:\Users\kaman\source\repos\Project 2- The sorting App\Sorting app\Sort Wizard a
 C:\Users\kaman\source\repos\Project 2- The sorting App\Sorting app\Sort Wizard app (src)\obj\Debug\net8.0-windows\SortWizard app.pdb
 C:\Users\kaman\source\repos\Project 2- The sorting App\Sorting app\Sort Wizard app (src)\obj\Debug\net8.0-windows\SortWizard app.genruntimeconfig.cache
 C:\Users\kaman\source\repos\Project 2- The sorting App\Sorting app\Sort Wizard app (src)\obj\Debug\net8.0-windows\ref\SortWizard app.dll
+C:\Users\kaman\source\repos\Project 2- The sorting App\Sorting app\Sort Wizard app (src)\obj\Debug\net8.0-windows\SortWizard app.sourcelink.json
