@@ -1,0 +1,34 @@
+C:\Users\kaman\OneDrive\Desktop\Security update\bin\Debug\net8.0-windows\481.exe
+C:\Users\kaman\OneDrive\Desktop\Security update\bin\Debug\net8.0-windows\481.deps.json
+C:\Users\kaman\OneDrive\Desktop\Security update\bin\Debug\net8.0-windows\481.runtimeconfig.json
+C:\Users\kaman\OneDrive\Desktop\Security update\bin\Debug\net8.0-windows\481.dll
+C:\Users\kaman\OneDrive\Desktop\Security update\bin\Debug\net8.0-windows\481.pdb
+C:\Users\kaman\OneDrive\Desktop\Security update\obj\Debug\net8.0-windows\_481.Form1.resources
+C:\Users\kaman\OneDrive\Desktop\Security update\obj\Debug\net8.0-windows\481.csproj.GenerateResource.cache
+C:\Users\kaman\OneDrive\Desktop\Security update\obj\Debug\net8.0-windows\481.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaman\OneDrive\Desktop\Security update\obj\Debug\net8.0-windows\481.AssemblyInfoInputs.cache
+C:\Users\kaman\OneDrive\Desktop\Security update\obj\Debug\net8.0-windows\481.AssemblyInfo.cs
+C:\Users\kaman\OneDrive\Desktop\Security update\obj\Debug\net8.0-windows\481.csproj.CoreCompileInputs.cache
+C:\Users\kaman\OneDrive\Desktop\Security update\obj\Debug\net8.0-windows\481.sourcelink.json
+C:\Users\kaman\OneDrive\Desktop\Security update\obj\Debug\net8.0-windows\481.dll
+C:\Users\kaman\OneDrive\Desktop\Security update\obj\Debug\net8.0-windows\refint\481.dll
+C:\Users\kaman\OneDrive\Desktop\Security update\obj\Debug\net8.0-windows\481.pdb
+C:\Users\kaman\OneDrive\Desktop\Security update\obj\Debug\net8.0-windows\481.genruntimeconfig.cache
+C:\Users\kaman\OneDrive\Desktop\Security update\obj\Debug\net8.0-windows\ref\481.dll
+D:\sorting app\IT481M5 (CODE)\bin\Debug\net8.0-windows\481.exe
+D:\sorting app\IT481M5 (CODE)\bin\Debug\net8.0-windows\481.deps.json
+D:\sorting app\IT481M5 (CODE)\bin\Debug\net8.0-windows\481.runtimeconfig.json
+D:\sorting app\IT481M5 (CODE)\bin\Debug\net8.0-windows\481.dll
+D:\sorting app\IT481M5 (CODE)\bin\Debug\net8.0-windows\481.pdb
+D:\sorting app\IT481M5 (CODE)\obj\Debug\net8.0-windows\_481.Form1.resources
+D:\sorting app\IT481M5 (CODE)\obj\Debug\net8.0-windows\481.csproj.GenerateResource.cache
+D:\sorting app\IT481M5 (CODE)\obj\Debug\net8.0-windows\481.GeneratedMSBuildEditorConfig.editorconfig
+D:\sorting app\IT481M5 (CODE)\obj\Debug\net8.0-windows\481.AssemblyInfoInputs.cache
+D:\sorting app\IT481M5 (CODE)\obj\Debug\net8.0-windows\481.AssemblyInfo.cs
+D:\sorting app\IT481M5 (CODE)\obj\Debug\net8.0-windows\481.csproj.CoreCompileInputs.cache
+D:\sorting app\IT481M5 (CODE)\obj\Debug\net8.0-windows\481.sourcelink.json
+D:\sorting app\IT481M5 (CODE)\obj\Debug\net8.0-windows\481.dll
+D:\sorting app\IT481M5 (CODE)\obj\Debug\net8.0-windows\refint\481.dll
+D:\sorting app\IT481M5 (CODE)\obj\Debug\net8.0-windows\481.pdb
+D:\sorting app\IT481M5 (CODE)\obj\Debug\net8.0-windows\481.genruntimeconfig.cache
+D:\sorting app\IT481M5 (CODE)\obj\Debug\net8.0-windows\ref\481.dll

@@ -1,0 +1,33 @@
+C:\Users\kaman\source\repos\Project 2- The sorting App\sorting app\IT481M5 (CODE)\bin\Debug\net8.0-windows\SortWizard app.exe
+C:\Users\kaman\source\repos\Project 2- The sorting App\sorting app\IT481M5 (CODE)\bin\Debug\net8.0-windows\SortWizard app.deps.json
+C:\Users\kaman\source\repos\Project 2- The sorting App\sorting app\IT481M5 (CODE)\bin\Debug\net8.0-windows\SortWizard app.runtimeconfig.json
+C:\Users\kaman\source\repos\Project 2- The sorting App\sorting app\IT481M5 (CODE)\bin\Debug\net8.0-windows\SortWizard app.dll
+C:\Users\kaman\source\repos\Project 2- The sorting App\sorting app\IT481M5 (CODE)\bin\Debug\net8.0-windows\SortWizard app.pdb
+C:\Users\kaman\source\repos\Project 2- The sorting App\sorting app\IT481M5 (CODE)\obj\Debug\net8.0-windows\SortingWizard.Interface.resources
+C:\Users\kaman\source\repos\Project 2- The sorting App\sorting app\IT481M5 (CODE)\obj\Debug\net8.0-windows\SortWizard app.csproj.GenerateResource.cache
+C:\Users\kaman\source\repos\Project 2- The sorting App\sorting app\IT481M5 (CODE)\obj\Debug\net8.0-windows\SortWizard app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaman\source\repos\Project 2- The sorting App\sorting app\IT481M5 (CODE)\obj\Debug\net8.0-windows\SortWizard app.AssemblyInfoInputs.cache
+C:\Users\kaman\source\repos\Project 2- The sorting App\sorting app\IT481M5 (CODE)\obj\Debug\net8.0-windows\SortWizard app.AssemblyInfo.cs
+C:\Users\kaman\source\repos\Project 2- The sorting App\sorting app\IT481M5 (CODE)\obj\Debug\net8.0-windows\SortWizard app.csproj.CoreCompileInputs.cache
+C:\Users\kaman\source\repos\Project 2- The sorting App\sorting app\IT481M5 (CODE)\obj\Debug\net8.0-windows\SortWizard app.sourcelink.json
+C:\Users\kaman\source\repos\Project 2- The sorting App\sorting app\IT481M5 (CODE)\obj\Debug\net8.0-windows\SortWizard app.dll
+C:\Users\kaman\source\repos\Project 2- The sorting App\sorting app\IT481M5 (CODE)\obj\Debug\net8.0-windows\refint\SortWizard app.dll
+C:\Users\kaman\source\repos\Project 2- The sorting App\sorting app\IT481M5 (CODE)\obj\Debug\net8.0-windows\SortWizard app.pdb
+C:\Users\kaman\source\repos\Project 2- The sorting App\sorting app\IT481M5 (CODE)\obj\Debug\net8.0-windows\SortWizard app.genruntimeconfig.cache
+C:\Users\kaman\source\repos\Project 2- The sorting App\sorting app\IT481M5 (CODE)\obj\Debug\net8.0-windows\ref\SortWizard app.dll
+C:\Users\kaman\source\repos\Project 2- The sorting App\Sorting app\Sort Wizard app (src)\bin\Debug\net8.0-windows\SortWizard app.exe
+C:\Users\kaman\source\repos\Project 2- The sorting App\Sorting app\Sort Wizard app (src)\bin\Debug\net8.0-windows\SortWizard app.deps.json
+C:\Users\kaman\source\repos\Project 2- The sorting App\Sorting app\Sort Wizard app (src)\bin\Debug\net8.0-windows\SortWizard app.runtimeconfig.json
+C:\Users\kaman\source\repos\Project 2- The sorting App\Sorting app\Sort Wizard app (src)\bin\Debug\net8.0-windows\SortWizard app.dll
+C:\Users\kaman\source\repos\Project 2- The sorting App\Sorting app\Sort Wizard app (src)\bin\Debug\net8.0-windows\SortWizard app.pdb
+C:\Users\kaman\source\repos\Project 2- The sorting App\Sorting app\Sort Wizard app (src)\obj\Debug\net8.0-windows\SortingWizard.Interface.resources
+C:\Users\kaman\source\repos\Project 2- The sorting App\Sorting app\Sort Wizard app (src)\obj\Debug\net8.0-windows\SortWizard app.csproj.GenerateResource.cache
+C:\Users\kaman\source\repos\Project 2- The sorting App\Sorting app\Sort Wizard app (src)\obj\Debug\net8.0-windows\SortWizard app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaman\source\repos\Project 2- The sorting App\Sorting app\Sort Wizard app (src)\obj\Debug\net8.0-windows\SortWizard app.AssemblyInfoInputs.cache
+C:\Users\kaman\source\repos\Project 2- The sorting App\Sorting app\Sort Wizard app (src)\obj\Debug\net8.0-windows\SortWizard app.AssemblyInfo.cs
+C:\Users\kaman\source\repos\Project 2- The sorting App\Sorting app\Sort Wizard app (src)\obj\Debug\net8.0-windows\SortWizard app.csproj.CoreCompileInputs.cache
+C:\Users\kaman\source\repos\Project 2- The sorting App\Sorting app\Sort Wizard app (src)\obj\Debug\net8.0-windows\SortWizard app.dll
+C:\Users\kaman\source\repos\Project 2- The sorting App\Sorting app\Sort Wizard app (src)\obj\Debug\net8.0-windows\refint\SortWizard app.dll
+C:\Users\kaman\source\repos\Project 2- The sorting App\Sorting app\Sort Wizard app (src)\obj\Debug\net8.0-windows\SortWizard app.pdb
+C:\Users\kaman\source\repos\Project 2- The sorting App\Sorting app\Sort Wizard app (src)\obj\Debug\net8.0-windows\SortWizard app.genruntimeconfig.cache
+C:\Users\kaman\source\repos\Project 2- The sorting App\Sorting app\Sort Wizard app (src)\obj\Debug\net8.0-windows\ref\SortWizard app.dll

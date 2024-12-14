@@ -1,0 +1,17 @@
+D:\sorting app\IT481M5 (CODE)\bin\Release\net8.0-windows\481.exe
+D:\sorting app\IT481M5 (CODE)\bin\Release\net8.0-windows\481.deps.json
+D:\sorting app\IT481M5 (CODE)\bin\Release\net8.0-windows\481.runtimeconfig.json
+D:\sorting app\IT481M5 (CODE)\bin\Release\net8.0-windows\481.dll
+D:\sorting app\IT481M5 (CODE)\bin\Release\net8.0-windows\481.pdb
+D:\sorting app\IT481M5 (CODE)\obj\Release\net8.0-windows\_481.Form1.resources
+D:\sorting app\IT481M5 (CODE)\obj\Release\net8.0-windows\481.csproj.GenerateResource.cache
+D:\sorting app\IT481M5 (CODE)\obj\Release\net8.0-windows\481.GeneratedMSBuildEditorConfig.editorconfig
+D:\sorting app\IT481M5 (CODE)\obj\Release\net8.0-windows\481.AssemblyInfoInputs.cache
+D:\sorting app\IT481M5 (CODE)\obj\Release\net8.0-windows\481.AssemblyInfo.cs
+D:\sorting app\IT481M5 (CODE)\obj\Release\net8.0-windows\481.csproj.CoreCompileInputs.cache
+D:\sorting app\IT481M5 (CODE)\obj\Release\net8.0-windows\481.sourcelink.json
+D:\sorting app\IT481M5 (CODE)\obj\Release\net8.0-windows\481.dll
+D:\sorting app\IT481M5 (CODE)\obj\Release\net8.0-windows\refint\481.dll
+D:\sorting app\IT481M5 (CODE)\obj\Release\net8.0-windows\481.pdb
+D:\sorting app\IT481M5 (CODE)\obj\Release\net8.0-windows\481.genruntimeconfig.cache
+D:\sorting app\IT481M5 (CODE)\obj\Release\net8.0-windows\ref\481.dll
